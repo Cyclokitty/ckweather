@@ -1,0 +1,15 @@
+$roominess: 20px;
+$bg: #fffaf0;
+$font: #795548;
+
+.App {
+  margin: $roominess;
+  padding: $roominess;
+  text-align: center;
+  background: $bg;
+  color: $font;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 2px;
+}
